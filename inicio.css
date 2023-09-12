@@ -56,6 +56,10 @@ body {
     text-align: justify;
 }
 
+.titulo-principal img {
+    width: 40vw;
+    height: 40vh;
+}
 .servicos {
     margin: 10px 10px;
     padding: 15px 0;
